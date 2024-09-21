@@ -1,0 +1,11 @@
+1|Coca Cola x 350 ML|1200|0|
+2|Pan de leche|800|1|Se vende mejor caliente
+3|Salchichon Zenu x 500 GR|3500|2|Recomendado comer con limon
+4|Arepas|900|0|
+50|Leche Colanta|1900|2|
+5|Arroz|1600|1|
+6|Aguacate|3200|0|
+7|Acelga|2400|0|
+8|Limón|4000|0|
+9|Lampara|14000|2|
+10|Café|3500|0|

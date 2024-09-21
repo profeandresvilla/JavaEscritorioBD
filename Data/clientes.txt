@@ -1,0 +1,12 @@
+1|1|Juan Carlos|Zuluaga|Calle Luna Calle Sol|233 4455|1|1974/09/23|2012/12/10
+2|1|Ledys|Bedoya|Avenida la Felicidad|522 5566|1|1981/01/11|2012/12/09
+3|1|Rufino|Aristizabal|Carrera Los Angeles|899 4455|2|1978/07/17|2012/12/08
+4|1|Leopoldo|Marin|Calle 45 #34 56|233 5676|1|1995/12/22|2012/12/10
+5|1|Manuel|Santos|||0|2012/12/13|2012/12/13
+6|1|Cristina|Aguilera|||0|2012/12/13|2012/12/13
+7|1|Noemi|Sanin|||0|2012/12/13|2012/12/13
+8|1|Jeronimo|Angulo|||0|2012/12/13|2012/12/13
+9|1|Jaime|Vasquez|||0|2012/12/13|2012/12/13
+10|1|Carla|Bruni|||0|2012/12/13|2012/12/13
+11|1|Rafael|Zapata|||0|2012/12/13|2012/12/13
+12|1|Sandra|Zuñiga|||0|2012/12/13|2012/12/13

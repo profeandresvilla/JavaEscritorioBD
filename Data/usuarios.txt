@@ -1,0 +1,5 @@
+zulu|Juan Carlos|Zuluaga Cardona|123|1
+pepe|Pedro|Infante|123|2
+maria|Maria|Conchita|123|1
+jaime|Jaime|Vasquez|3030|2
+vale|Valery|Zuluaga|2020|1
